@@ -30,6 +30,7 @@ A full-stack real-time chat application built using the **MERN Stack**, **Socket
 
 ## 🔗 Live Demo
 
+Deployed on Render  
 👉 Try the app here: [Quick Chat App](https://quick-chat-app-m9xf.onrender.com/)
 
 ---
